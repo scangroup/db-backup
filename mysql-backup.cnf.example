@@ -1,0 +1,5 @@
+[client]
+user=db-username
+password=enter-password-here
+host=127.0.0.1
+
